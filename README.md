@@ -11,7 +11,7 @@ Perfect for quickly assessing the health and security basics of a target device 
 - **Port Scanner:** Scans common TCP ports to identify which are open.  
 - **SSL Certificate Checker:** Verifies if the target web server has a valid SSL/TLS certificate, its expiry date, and issuer.  
 - **Password Strength Checker (optional):** Allows you to input a password and get a strength score with feedback.  
-- **Report Generation:** Generates a clear, human-readable text report summarizing all findings, and saves it to a file.
+- **Report Generation:** Generates a clear, human-readable text report summarizing all findings and saves it to a file.
 
 ---
 
