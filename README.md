@@ -45,9 +45,9 @@ Perfect for quickly assessing the health and security basics of a target device 
   pip install ping3
 
 ### 1. Clone the repository:
- ```bash
-git clone https://github.com/yourusername/network_health_security_checker.git
-cd network_health_security_checker
+```bash
+git clone https://github.com/yourusername/network_toolkit.git
+cd network_toolkit
 ```
 ### 2. (Optional) Create and activate a virtual environment:
 ```bash
